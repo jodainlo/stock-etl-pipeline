@@ -5,7 +5,7 @@ Pipeline ETL automatizado que extrae precios diarios de acciones desde Yahoo Fin
 ---
 
 ## 🏗️ Arquitectura
-!(images\stock_etl_images.jpeg)
+![Arquitectura del Pipeline](images\stock_etl_images.jpeg)
 
 ```
 API de Yahoo Finance
